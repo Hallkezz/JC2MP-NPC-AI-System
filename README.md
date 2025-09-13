@@ -33,3 +33,6 @@ Events:Subscribe("NPCDeath", function()
     print("NPC died")
 end)
 ```
+
+## Examples
+- [NPC-AI-SpawnMenu](https://github.com/Hallkezz/NPC-AI-SpawnMenu)
