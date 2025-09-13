@@ -1,4 +1,4 @@
-# JC2MP-NPC-AISystem
+# JC2MP-NPC-AI-System
 NPC AI System for Just Cause 2: Multiplayer Mod
 
 ## Documentation
