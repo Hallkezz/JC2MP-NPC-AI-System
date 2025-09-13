@@ -23,6 +23,12 @@ Events:Fire("SpawnNPC", {
 })
 ```
 
+#### `RemoveAllNPCs`
+**Usage**
+```lua
+Events:Fire("RemoveAllNPCs")
+```
+
 ### Client Events
 #### `NPCDeath`
 Triggered when an NPC dies
