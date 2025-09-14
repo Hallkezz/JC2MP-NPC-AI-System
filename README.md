@@ -13,7 +13,7 @@ NPC AI System for Just Cause 2: Multiplayer Mod
 |target| `number`|Player ID for NPC Target|
 |model| `number`|NPC Model ID|
 |pos| `Vector3`|NPC Spawn Position|
-|weapon| `number`|Weapon for NPC|
+|weapon| `Weapon`|Weapon for NPC|
 
 **Usage**
 ```lua
