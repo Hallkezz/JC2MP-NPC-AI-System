@@ -1,6 +1,8 @@
 # JC2MP-NPC-AI-System
 NPC AI System for Just Cause 2: Multiplayer Mod
 
+[Watch video on YouTube](https://youtu.be/8V-b5THtimY)
+
 ## Documentation
 ### Server Events
 #### `SpawnNPC`
